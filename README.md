@@ -2,31 +2,25 @@
 
 **Estudos (livros, artigos, teses, etc) relacionados à Filosofia da Relgião e Apologética (com foco na Filosofia Analítica).**
 
-![estudos](http://images.virgula.com.br/2017/11/Leonardo_da_Vinci.jpg)
+![estudos](https://i.pinimg.com/originals/41/1a/97/411a978211b468384ffea39cf178bc02.jpg)
 
 ### INDICE
 
-1. História da Filosofia	
-1. Introdução à Filosofia
-1. Filosofia da Religião
-2. Apologética
+1. Filosoia Grega
+1. Filosofia Medieval
+1. Filosofia Moderna
+1. Filosofia Contemporânea
 
 ## INDÍCE DO REPOSITÓRIO
 
-> **PARTE 1: HISTÓRIA DA FILOSOFIA**
+> **PARTE 1: FILOSOFIA GREGA**
 >
-> ![Computer](https://cdn-images-1.medium.com/max/1200/1*2wOWJr-i7MU_D25_M1rvTA.gif)
+> ![Computer](http://d7rrmyn0bchb2.cloudfront.net/8971/2020/06/01/2020-06-01-12-51-238971_0_thumbNail.gif)
 
 1. [**A**LGORITMOS: TEORIA E PRÁTICA](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/algoritmos1/README.md) - Thomas H. Cormen 
 1. [**C**IÊNCIA DA COMPUTAÇÃO](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/cienciacomputacao1/README.md) - J. Glenn Brookshear
 1. [**E**LOQUENTE JAVASCRIPT](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/eloquentejavascript/README.md) - Marijn Haverbeke
-1. [ENGENHARIA DE SOFTWARE](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/engenhariadesoftware1/README.md) - Ian Sommerville
-1. [ESTRUTURA DE DADOS E SEUS ALGORITMOS](https://github.com/Darlley/ExerciciosLivros/tree/master/tecnologia/estruturadedados1/README.md) - Jayme Luiz Szwarcfiter e Lilian Markenzon
-1. [**I**NTELIGÊNCIA ARTIFICIAL](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/InteligenciaArtifical1/README.md) - George F. Luger
-1. [**P**ROJETO DE BANCO DE DADOS](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/bancodedados1/README.md) - Carlos Alberto Heuser
-1. [**R**EDES DE COMPUTADORES E A INTERNET](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/redes1/README.md) - Kurose e Rossa
-1. [REDES DE COMPUTADORES](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/redes2/README.md) - Andrew S. Tanenbaum
-1. [**S**ISTEMAS OPERACIONAIS COM JAVA](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/sistemasoperacionais1/README.md) - Abraham Silberschatz
+
 
 > **PARTE 2: INTRODUÇÃO À FILOSOFIA**
 >
